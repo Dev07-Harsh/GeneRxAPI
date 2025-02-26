@@ -28,7 +28,6 @@ A RESTful API built with Node.js, Express, and MongoDB to manage and retrieve me
 
    ```bash
     git clone https://github.com/Dev07-Harsh/GeneRxAPI.git
-   cd medicine-api
    ```
 
 2. **Install Dependencies:**

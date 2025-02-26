@@ -1,0 +1,1836 @@
+[
+    {
+        "brand_name": "Acetaminophen",
+        "generic_alternatives": ["Paracetamol"],
+        "price": 5,
+        "drug_class": "Analgesic, Antipyretic",
+        "indication": "Pain relief, fever reduction"
+    },
+    {
+        "brand_name": "Acetaminophen",
+        "generic_alternatives": ["Paracetamol"],
+        "price": 7,
+        "drug_class": "Analgesic, Antipyretic",
+        "indication": "Pain relief, fever reduction"
+    },
+    {
+        "brand_name": "Panadol",
+        "generic_alternatives": ["Paracetamol"],
+        "price": 7,
+        "drug_class": "Analgesic, Antipyretic",
+        "indication": "Pain relief, fever reduction"
+    },
+    {
+        "brand_name": "Tylenol",
+        "generic_alternatives": ["Paracetamol"],
+        "price": 8,
+        "drug_class": "Analgesic, Antipyretic",
+        "indication": "Pain relief, fever reduction"
+    },
+    {
+        "brand_name": "Dolo 650",
+        "generic_alternatives": ["Paracetamol"],
+        "price": 7,
+        "drug_class": "Analgesic, Antipyretic",
+        "indication": "Pain relief, fever reduction"
+    },
+    {
+        "brand_name": "Calpol",
+        "generic_alternatives": ["Paracetamol"],
+        "price": 6,
+        "drug_class": "Analgesic, Antipyretic",
+        "indication": "Pain relief, fever reduction"
+    },
+    {
+        "brand_name": "Advil",
+        "generic_alternatives": ["Ibuprofen"],
+        "price": 3,
+        "drug_class": "NSAID",
+        "indication": "Pain, fever, inflammation"
+    },
+    {
+        "brand_name": "Motrin",
+        "generic_alternatives": ["Ibuprofen"],
+        "price": 3,
+        "drug_class": "NSAID",
+        "indication": "Pain, fever, inflammation"
+    },
+    {
+        "brand_name": "Brufen",
+        "generic_alternatives": ["Ibuprofen"],
+        "price": 4,
+        "drug_class": "NSAID",
+        "indication": "Pain, fever, inflammation"
+    },
+    {
+        "brand_name": "Nurofen",
+        "generic_alternatives": ["Ibuprofen"],
+        "price": 4.5,
+        "drug_class": "NSAID",
+        "indication": "Pain, fever, inflammation"
+    },
+    {
+        "brand_name": "Aleve",
+        "generic_alternatives": ["Naproxen"],
+        "price": 15.33,
+        "drug_class": "NSAID",
+        "indication": "Pain, fever, inflammation"
+    },
+    {
+        "brand_name": "Naprosyn",
+        "generic_alternatives": ["Naproxen"],
+        "price": 16,
+        "drug_class": "NSAID",
+        "indication": "Pain, fever, inflammation"
+    },
+    {
+        "brand_name": "Disprin",
+        "generic_alternatives": ["Aspirin"],
+        "price": 3.57,
+        "drug_class": "NSAID, Antiplatelet",
+        "indication": "Pain, fever, inflammation, antiplatelet"
+    },
+    {
+        "brand_name": "Aspro clear",
+        "generic_alternatives": ["Aspirin"],
+        "price": 3.57,
+        "drug_class": "NSAID, Antiplatelet",
+        "indication": "Pain, fever, inflammation, antiplatelet"
+    },
+    {
+        "brand_name": "Ecotrin",
+        "generic_alternatives": ["Aspirin"],
+        "price": 4,
+        "drug_class": "NSAID, Antiplatelet",
+        "indication": "Pain, fever, inflammation, antiplatelet"
+    },
+    {
+        "brand_name": "Voltaren Gel",
+        "generic_alternatives": ["Diclofenac"],
+        "price": 12,
+        "drug_class": "NSAID, Topical",
+        "indication": "Local pain and inflammation"
+    },
+    {
+        "brand_name": "Celebrex",
+        "generic_alternatives": ["Celecoxib"],
+        "price": 140,
+        "drug_class": "COX-2 Inhibitor",
+        "indication": "Arthritis pain, acute pain"
+    },
+    {
+        "brand_name": "Mobic",
+        "generic_alternatives": ["Meloxicam"],
+        "price": 25,
+        "drug_class": "NSAID",
+        "indication": "Arthritis pain"
+    },
+    {
+        "brand_name": "Icy Hot",
+        "generic_alternatives": ["Menthol/Camphor"],
+        "price": 9,
+        "drug_class": "Topical Analgesic",
+        "indication": "Muscle and joint pain"
+    },
+    {
+        "brand_name": "Bengay",
+        "generic_alternatives": ["Menthol/Methyl salicylate"],
+        "price": 8.5,
+        "drug_class": "Topical Analgesic",
+        "indication": "Muscle and joint pain"
+    },
+    {
+        "brand_name": "Tylenol PM",
+        "generic_alternatives": ["Acetaminophen/Diphenhydramine"],
+        "price": 10,
+        "drug_class": "Analgesic, Antihistamine",
+        "indication": "Pain relief with sleep aid"
+    },
+    {
+        "brand_name": "Advil PM",
+        "generic_alternatives": ["Ibuprofen/Diphenhydramine"],
+        "price": 11,
+        "drug_class": "NSAID, Antihistamine",
+        "indication": "Pain relief with sleep aid"
+    },
+    {
+        "brand_name": "Excedrin Migraine",
+        "generic_alternatives": ["Acetaminophen/Aspirin/Caffeine"],
+        "price": 12.5,
+        "drug_class": "Combination Analgesic",
+        "indication": "Migraine headache relief"
+    },
+    {
+        "brand_name": "Benadryl",
+        "generic_alternatives": ["Diphenhydramine"],
+        "price": 18,
+        "drug_class": "Antihistamine",
+        "indication": "Allergy symptoms, sleep aid"
+    },
+    {
+        "brand_name": "Zyrtec",
+        "generic_alternatives": ["Cetirizine"],
+        "price": 9.33,
+        "drug_class": "Antihistamine",
+        "indication": "Allergy symptoms"
+    },
+    {
+        "brand_name": "Claritin",
+        "generic_alternatives": ["Loratadine"],
+        "price": 73.7,
+        "drug_class": "Antihistamine",
+        "indication": "Allergy symptoms"
+    },
+    {
+        "brand_name": "Allegra",
+        "generic_alternatives": ["Fexofenadine"],
+        "price": 74,
+        "drug_class": "Antihistamine",
+        "indication": "Allergy symptoms"
+    },
+    {
+        "brand_name": "Xyzal",
+        "generic_alternatives": ["Levocetirizine"],
+        "price": 76,
+        "drug_class": "Antihistamine",
+        "indication": "Allergy symptoms"
+    },
+    {
+        "brand_name": "Alavert",
+        "generic_alternatives": ["Loratadine"],
+        "price": 75,
+        "drug_class": "Antihistamine",
+        "indication": "Allergy symptoms"
+    },
+    {
+        "brand_name": "Chlor-Trimeton",
+        "generic_alternatives": ["Chlorpheniramine"],
+        "price": 8,
+        "drug_class": "Antihistamine",
+        "indication": "Allergy symptoms"
+    },
+    {
+        "brand_name": "Dramamine",
+        "generic_alternatives": ["Dimenhydrinate"],
+        "price": 7,
+        "drug_class": "Antihistamine, Antiemetic",
+        "indication": "Motion sickness"
+    },
+    {
+        "brand_name": "Unisom SleepTabs",
+        "generic_alternatives": ["Doxylamine succinate"],
+        "price": 9.5,
+        "drug_class": "Antihistamine, Sleep Aid",
+        "indication": "Insomnia"
+    },
+    {
+        "brand_name": "Sudafed",
+        "generic_alternatives": ["Pseudoephedrine"],
+        "price": 10.5,
+        "drug_class": "Decongestant",
+        "indication": "Nasal congestion"
+    },
+    {
+        "brand_name": "Sudafed PE",
+        "generic_alternatives": ["Phenylephrine"],
+        "price": 9,
+        "drug_class": "Decongestant",
+        "indication": "Nasal congestion"
+    },
+    {
+        "brand_name": "Afrin",
+        "generic_alternatives": ["Oxymetazoline"],
+        "price": 12.5,
+        "drug_class": "Nasal Decongestant",
+        "indication": "Nasal congestion (short-term)"
+    },
+    {
+        "brand_name": "Vicks VapoRub",
+        "generic_alternatives": ["Camphor/Menthol/Eucalyptus oil"],
+        "price": 11,
+        "drug_class": "Topical Decongestant",
+        "indication": "Nasal congestion, cough relief"
+    },
+    {
+        "brand_name": "Flonase",
+        "generic_alternatives": ["Fluticasone"],
+        "price": 20,
+        "drug_class": "Nasal Corticosteroid",
+        "indication": "Allergic rhinitis"
+    },
+    {
+        "brand_name": "Rhinocort",
+        "generic_alternatives": ["Budesonide"],
+        "price": 23,
+        "drug_class": "Nasal Corticosteroid",
+        "indication": "Allergic rhinitis"
+    },
+    {
+        "brand_name": "Nasacort",
+        "generic_alternatives": ["Triamcinolone"],
+        "price": 21,
+        "drug_class": "Nasal Corticosteroid",
+        "indication": "Allergic rhinitis"
+    },
+    {
+        "brand_name": "Rhinocort Aqua",
+        "generic_alternatives": ["Budesonide nasal spray"],
+        "price": 23,
+        "drug_class": "Nasal Corticosteroid",
+        "indication": "Allergic rhinitis"
+    },
+    {
+        "brand_name": "Nasacort AQ",
+        "generic_alternatives": ["Triamcinolone acetonide nasal spray"],
+        "price": 21,
+        "drug_class": "Nasal Corticosteroid",
+        "indication": "Allergic rhinitis"
+    },
+    {
+        "brand_name": "Mucinex",
+        "generic_alternatives": ["Guaifenesin"],
+        "price": 11,
+        "drug_class": "Expectorant",
+        "indication": "Cough, chest congestion"
+    },
+    {
+        "brand_name": "Robitussin",
+        "generic_alternatives": ["Guaifenesin"],
+        "price": 10,
+        "drug_class": "Expectorant",
+        "indication": "Cough, chest congestion"
+    },
+    {
+        "brand_name": "Mucinex DM",
+        "generic_alternatives": ["Guaifenesin/Dextromethorphan"],
+        "price": 13,
+        "drug_class": "Expectorant, Cough Suppressant",
+        "indication": "Cough, chest congestion"
+    },
+    {
+        "brand_name": "Robitussin DM",
+        "generic_alternatives": ["Guaifenesin/Dextromethorphan"],
+        "price": 12,
+        "drug_class": "Expectorant, Cough Suppressant",
+        "indication": "Cough, chest congestion"
+    },
+    {
+        "brand_name": "Delsym",
+        "generic_alternatives": ["Dextromethorphan"],
+        "price": 9,
+        "drug_class": "Cough Suppressant",
+        "indication": "Cough"
+    },
+    {
+        "brand_name": "Vicks Formula 44",
+        "generic_alternatives": ["Dextromethorphan"],
+        "price": 8.5,
+        "drug_class": "Cough Suppressant",
+        "indication": "Cough"
+    },
+    {
+        "brand_name": "Halls Cough Drops",
+        "generic_alternatives": ["Menthol"],
+        "price": 5,
+        "drug_class": "Cough Suppressant, Local Anesthetic",
+        "indication": "Cough, sore throat"
+    },
+    {
+        "brand_name": "Cepacol Sore Throat Lozenges",
+        "generic_alternatives": ["Benzocaine/Menthol"],
+        "price": 6,
+        "drug_class": "Local Anesthetic, Antiseptic",
+        "indication": "Sore throat relief"
+    },
+    {
+        "brand_name": "Strepsils",
+        "generic_alternatives": ["Hexylresorcinol"],
+        "price": 7,
+        "drug_class": "Antiseptic, Local Anesthetic",
+        "indication": "Sore throat relief"
+    },
+    {
+        "brand_name": "Imodium",
+        "generic_alternatives": ["Loperamide"],
+        "price": 7.7,
+        "drug_class": "Antidiarrheal",
+        "indication": "Diarrhea"
+    },
+    {
+        "brand_name": "Pepto-Bismol",
+        "generic_alternatives": ["Bismuth subsalicylate"],
+        "price": 9,
+        "drug_class": "Antidiarrheal, Antacid",
+        "indication": "Diarrhea, upset stomach"
+    },
+    {
+        "brand_name": "Kaopectate",
+        "generic_alternatives": ["Bismuth subsalicylate"],
+        "price": 9,
+        "drug_class": "Antidiarrheal, Antacid",
+        "indication": "Diarrhea, upset stomach"
+    },
+    {
+        "brand_name": "Dulcolax",
+        "generic_alternatives": ["Bisacodyl"],
+        "price": 6,
+        "drug_class": "Stimulant Laxative",
+        "indication": "Constipation"
+    },
+    {
+        "brand_name": "Senokot",
+        "generic_alternatives": ["Senna"],
+        "price": 5.5,
+        "drug_class": "Stimulant Laxative",
+        "indication": "Constipation"
+    },
+    {
+        "brand_name": "Ex-Lax",
+        "generic_alternatives": ["Sennosides"],
+        "price": 6.5,
+        "drug_class": "Stimulant Laxative",
+        "indication": "Constipation"
+    },
+    {
+        "brand_name": "Colace",
+        "generic_alternatives": ["Docusate sodium"],
+        "price": 8,
+        "drug_class": "Stool Softener",
+        "indication": "Constipation (stool softening)"
+    },
+    {
+        "brand_name": "Surfak",
+        "generic_alternatives": ["Docusate calcium"],
+        "price": 9,
+        "drug_class": "Stool Softener",
+        "indication": "Constipation (stool softening)"
+    },
+    {
+        "brand_name": "Miralax",
+        "generic_alternatives": ["Polyethylene glycol 3350"],
+        "price": 12,
+        "drug_class": "Osmotic Laxative",
+        "indication": "Constipation"
+    },
+    {
+        "brand_name": "Milk of Magnesia",
+        "generic_alternatives": ["Magnesium hydroxide"],
+        "price": 6.5,
+        "drug_class": "Saline Laxative, Antacid",
+        "indication": "Constipation, heartburn"
+    },
+    {
+        "brand_name": "Citrucel",
+        "generic_alternatives": ["Methylcellulose"],
+        "price": 11,
+        "drug_class": "Bulk-Forming Laxative",
+        "indication": "Constipation, bowel regularity"
+    },
+    {
+        "brand_name": "FiberCon",
+        "generic_alternatives": ["Calcium polycarbophil"],
+        "price": 10.5,
+        "drug_class": "Bulk-Forming Laxative",
+        "indication": "Constipation, bowel regularity"
+    },
+    {
+        "brand_name": "Metamucil",
+        "generic_alternatives": ["Psyllium husk"],
+        "price": 12,
+        "drug_class": "Bulk-Forming Laxative",
+        "indication": "Constipation, bowel regularity"
+    },
+    {
+        "brand_name": "Tums",
+        "generic_alternatives": ["Calcium carbonate"],
+        "price": 6,
+        "drug_class": "Antacid",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Rolaids",
+        "generic_alternatives": ["Calcium carbonate/Magnesium hydroxide"],
+        "price": 7,
+        "drug_class": "Antacid",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Maalox",
+        "generic_alternatives": ["Aluminum hydroxide/Magnesium hydroxide"],
+        "price": 8,
+        "drug_class": "Antacid",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Mylanta",
+        "generic_alternatives": ["Aluminum hydroxide/Magnesium hydroxide/Simethicone"],
+        "price": 9.5,
+        "drug_class": "Antacid, Antiflatulent",
+        "indication": "Heartburn, gas"
+    },
+    {
+        "brand_name": "Gaviscon",
+        "generic_alternatives": ["Aluminum hydroxide/Magnesium carbonate"],
+        "price": 9,
+        "drug_class": "Antacid, Alginate",
+        "indication": "Heartburn, acid reflux"
+    },
+    {
+        "brand_name": "Pepto-Bismol",
+        "generic_alternatives": ["Bismuth subsalicylate"],
+        "price": 9,
+        "drug_class": "Antacid, Antidiarrheal",
+        "indication": "Heartburn, upset stomach, diarrhea"
+    },
+    {
+        "brand_name": "Prilosec OTC",
+        "generic_alternatives": ["Omeprazole"],
+        "price": 9.9,
+        "drug_class": "Proton Pump Inhibitor (PPI)",
+        "indication": "Frequent heartburn"
+    },
+    {
+        "brand_name": "Prevacid 24HR",
+        "generic_alternatives": ["Lansoprazole"],
+        "price": 20,
+        "drug_class": "Proton Pump Inhibitor (PPI)",
+        "indication": "Frequent heartburn"
+    },
+    {
+        "brand_name": "Nexium 24HR",
+        "generic_alternatives": ["Esomeprazole"],
+        "price": 20.9,
+        "drug_class": "Proton Pump Inhibitor (PPI)",
+        "indication": "Frequent heartburn"
+    },
+    {
+        "brand_name": "Protonix",
+        "generic_alternatives": ["Pantoprazole"],
+        "price": 12.1,
+        "drug_class": "Proton Pump Inhibitor (PPI)",
+        "indication": "GERD, erosive esophagitis"
+    },
+    {
+        "brand_name": "Aciphex",
+        "generic_alternatives": ["Rabeprazole"],
+        "price": 22,
+        "drug_class": "Proton Pump Inhibitor (PPI)",
+        "indication": "GERD, erosive esophagitis"
+    },
+    {
+        "brand_name": "Zantac 360",
+        "generic_alternatives": ["Famotidine"],
+        "price": 22,
+        "drug_class": "H2 Receptor Antagonist",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Pepcid AC",
+        "generic_alternatives": ["Famotidine"],
+        "price": 21,
+        "drug_class": "H2 Receptor Antagonist",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Tagamet HB",
+        "generic_alternatives": ["Cimetidine"],
+        "price": 20,
+        "drug_class": "H2 Receptor Antagonist",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Pepto Bismol Chewable Tablets",
+        "generic_alternatives": ["Bismuth subsalicylate"],
+        "price": 10,
+        "drug_class": "Antacid, Antidiarrheal",
+        "indication": "Heartburn, upset stomach, diarrhea"
+    },
+    {
+        "brand_name": "Tums Extra Strength",
+        "generic_alternatives": ["Calcium carbonate"],
+        "price": 7,
+        "drug_class": "Antacid",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Rolaids Extra Strength",
+        "generic_alternatives": ["Calcium carbonate/Magnesium hydroxide"],
+        "price": 8,
+        "drug_class": "Antacid",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Gaviscon Extra Strength",
+        "generic_alternatives": ["Aluminum hydroxide/Magnesium carbonate"],
+        "price": 9,
+        "drug_class": "Antacid, Alginate",
+        "indication": "Heartburn, acid reflux"
+    },
+    {
+        "brand_name": "Circadin",
+        "generic_alternatives": ["Melatonin"],
+        "price": 166,
+        "drug_class": "Hormone, Sleep Aid",
+        "indication": "Insomnia, sleep regulation"
+    },
+    {
+        "brand_name": "Valium",
+        "generic_alternatives": ["Diazepam"],
+        "price": 6,
+        "drug_class": "Benzodiazepine",
+        "indication": "Anxiety, muscle spasm, seizures"
+    },
+    {
+        "brand_name": "Xanax",
+        "generic_alternatives": ["Alprazolam"],
+        "price": 7.7,
+        "drug_class": "Benzodiazepine",
+        "indication": "Anxiety, panic disorder"
+    },
+    {
+        "brand_name": "Ativan",
+        "generic_alternatives": ["Lorazepam"],
+        "price": 12,
+        "drug_class": "Benzodiazepine",
+        "indication": "Anxiety, seizures, sedation"
+    },
+    {
+        "brand_name": "Klonopin",
+        "generic_alternatives": ["Clonazepam"],
+        "price": 11,
+        "drug_class": "Benzodiazepine",
+        "indication": "Seizures, panic disorder"
+    },
+    {
+        "brand_name": "Ambien",
+        "generic_alternatives": ["Zolpidem"],
+        "price": 20,
+        "drug_class": "Sedative-Hypnotic",
+        "indication": "Insomnia"
+    },
+    {
+        "brand_name": "Lunesta",
+        "generic_alternatives": ["Eszopiclone"],
+        "price": 23,
+        "drug_class": "Sedative-Hypnotic",
+        "indication": "Insomnia"
+    },
+    {
+        "brand_name": "Restoril",
+        "generic_alternatives": ["Temazepam"],
+        "price": 21,
+        "drug_class": "Benzodiazepine, Hypnotic",
+        "indication": "Insomnia"
+    },
+    {
+        "brand_name": "Prozac",
+        "generic_alternatives": ["Fluoxetine"],
+        "price": 8.8,
+        "drug_class": "SSRI",
+        "indication": "Depression, OCD, panic disorder"
+    },
+    {
+        "brand_name": "Zoloft",
+        "generic_alternatives": ["Sertraline"],
+        "price": 15,
+        "drug_class": "SSRI",
+        "indication": "Depression, OCD, panic disorder"
+    },
+    {
+        "brand_name": "Celexa",
+        "generic_alternatives": ["Citalopram"],
+        "price": 10,
+        "drug_class": "SSRI",
+        "indication": "Depression"
+    },
+    {
+        "brand_name": "Lexapro",
+        "generic_alternatives": ["Escitalopram"],
+        "price": 11.5,
+        "drug_class": "SSRI",
+        "indication": "Depression, anxiety"
+    },
+    {
+        "brand_name": "Paxil",
+        "generic_alternatives": ["Paroxetine"],
+        "price": 13,
+        "drug_class": "SSRI",
+        "indication": "Depression, anxiety disorders"
+    },
+    {
+        "brand_name": "Wellbutrin XL",
+        "generic_alternatives": ["Bupropion"],
+        "price": 30,
+        "drug_class": "NDRI",
+        "indication": "Depression, smoking cessation"
+    },
+    {
+        "brand_name": "Effexor XR",
+        "generic_alternatives": ["Venlafaxine"],
+        "price": 29,
+        "drug_class": "SNRI",
+        "indication": "Depression, anxiety disorders"
+    },
+    {
+        "brand_name": "Cymbalta",
+        "generic_alternatives": ["Duloxetine"],
+        "price": 27,
+        "drug_class": "SNRI",
+        "indication": "Depression, anxiety, neuropathic pain"
+    },
+    {
+        "brand_name": "Seroquel",
+        "generic_alternatives": ["Quetiapine"],
+        "price": 16,
+        "drug_class": "Atypical Antipsychotic",
+        "indication": "Schizophrenia, bipolar disorder"
+    },
+    {
+        "brand_name": "Risperdal",
+        "generic_alternatives": ["Risperidone"],
+        "price": 17,
+        "drug_class": "Atypical Antipsychotic",
+        "indication": "Schizophrenia, bipolar disorder, autism irritability"
+    },
+    {
+        "brand_name": "Zyprexa",
+        "generic_alternatives": ["Olanzapine"],
+        "price": 18,
+        "drug_class": "Atypical Antipsychotic",
+        "indication": "Schizophrenia, bipolar disorder"
+    },
+    {
+        "brand_name": "Abilify",
+        "generic_alternatives": ["Aripiprazole"],
+        "price": 14,
+        "drug_class": "Atypical Antipsychotic",
+        "indication": "Schizophrenia, bipolar disorder, depression adjunctive"
+    },
+    {
+        "brand_name": "Haldol",
+        "generic_alternatives": ["Haloperidol"],
+        "price": 15,
+        "drug_class": "Typical Antipsychotic",
+        "indication": "Schizophrenia, psychosis"
+    },
+    {
+        "brand_name": "Lithium",
+        "generic_alternatives": ["Lithium Carbonate"],
+        "price": 20,
+        "drug_class": "Mood Stabilizer",
+        "indication": "Bipolar disorder"
+    },
+    {
+        "brand_name": "Lamictal",
+        "generic_alternatives": ["Lamotrigine"],
+        "price": 25,
+        "drug_class": "Anticonvulsant, Mood Stabilizer",
+        "indication": "Bipolar disorder, seizures"
+    },
+    {
+        "brand_name": "Depakote",
+        "generic_alternatives": ["Valproic Acid"],
+        "price": 22,
+        "drug_class": "Anticonvulsant, Mood Stabilizer",
+        "indication": "Bipolar disorder, seizures, migraine prophylaxis"
+    },
+    {
+        "brand_name": "Tegretol",
+        "generic_alternatives": ["Carbamazepine"],
+        "price": 21,
+        "drug_class": "Anticonvulsant, Mood Stabilizer",
+        "indication": "Seizures, bipolar disorder, trigeminal neuralgia"
+    },
+    {
+        "brand_name": "Adderall XR",
+        "generic_alternatives": ["Amphetamine/Dextroamphetamine"],
+        "price": 52,
+        "drug_class": "CNS Stimulant",
+        "indication": "ADHD, narcolepsy"
+    },
+    {
+        "brand_name": "Ritalin LA",
+        "generic_alternatives": ["Methylphenidate"],
+        "price": 50,
+        "drug_class": "CNS Stimulant",
+        "indication": "ADHD, narcolepsy"
+    },
+    {
+        "brand_name": "Concerta",
+        "generic_alternatives": ["Methylphenidate"],
+        "price": 48,
+        "drug_class": "CNS Stimulant",
+        "indication": "ADHD"
+    },
+    {
+        "brand_name": "Vyvanse",
+        "generic_alternatives": ["Lisdexamfetamine"],
+        "price": 55,
+        "drug_class": "CNS Stimulant",
+        "indication": "ADHD"
+    },
+    {
+        "brand_name": "Strattera",
+        "generic_alternatives": ["Atomoxetine"],
+        "price": 53,
+        "drug_class": "Selective Norepinephrine Reuptake Inhibitor (SNRI)",
+        "indication": "ADHD"
+    },
+    {
+        "brand_name": "Neurontin",
+        "generic_alternatives": ["Gabapentin"],
+        "price": 15,
+        "drug_class": "Anticonvulsant, Neuropathic Pain Agent",
+        "indication": "Seizures, neuropathic pain, postherpetic neuralgia"
+    },
+    {
+        "brand_name": "Lyrica",
+        "generic_alternatives": ["Pregabalin"],
+        "price": 22,
+        "drug_class": "Anticonvulsant, Neuropathic Pain Agent",
+        "indication": "Fibromyalgia, neuropathic pain, seizures"
+    },
+    {
+        "brand_name": "Topamax",
+        "generic_alternatives": ["Topiramate"],
+        "price": 23,
+        "drug_class": "Anticonvulsant, Migraine Prophylaxis",
+        "indication": "Seizures, migraine prophylaxis"
+    },
+    {
+        "brand_name": "Keppra",
+        "generic_alternatives": ["Levetiracetam"],
+        "price": 24,
+        "drug_class": "Anticonvulsant",
+        "indication": "Seizures"
+    },
+    {
+        "brand_name": "Dilantin",
+        "generic_alternatives": ["Phenytoin"],
+        "price": 20,
+        "drug_class": "Anticonvulsant",
+        "indication": "Seizures"
+    },
+    {
+        "brand_name": "Tylenol with Codeine #3",
+        "generic_alternatives": ["Acetaminophen/Codeine"],
+        "price": 22,
+        "drug_class": "Opioid Analgesic Combination",
+        "indication": "Mild to moderate pain"
+    },
+    {
+        "brand_name": "Vicodin",
+        "generic_alternatives": ["Hydrocodone/Acetaminophen"],
+        "price": 25,
+        "drug_class": "Opioid Analgesic Combination",
+        "indication": "Moderate to severe pain"
+    },
+    {
+        "brand_name": "Percocet",
+        "generic_alternatives": ["Oxycodone/Acetaminophen"],
+        "price": 28,
+        "drug_class": "Opioid Analgesic Combination",
+        "indication": "Moderate to severe pain"
+    },
+    {
+        "brand_name": "Morphine",
+        "generic_alternatives": ["Morphine"],
+        "price": 30,
+        "drug_class": "Opioid Analgesic",
+        "indication": "Severe pain"
+    },
+    {
+        "brand_name": "OxyContin",
+        "generic_alternatives": ["Oxycodone"],
+        "price": 35,
+        "drug_class": "Opioid Analgesic",
+        "indication": "Severe pain, chronic pain"
+    },
+    {
+        "brand_name": "Fentanyl Patch",
+        "generic_alternatives": ["Fentanyl"],
+        "price": 40,
+        "drug_class": "Opioid Analgesic",
+        "indication": "Severe chronic pain"
+    },
+    {
+        "brand_name": "Tramadol",
+        "generic_alternatives": ["Tramadol"],
+        "price": 18,
+        "drug_class": "Opioid Analgesic",
+        "indication": "Moderate to moderately severe pain"
+    },
+    {
+        "brand_name": "Lidoderm Patch",
+        "generic_alternatives": ["Lidocaine"],
+        "price": 30,
+        "drug_class": "Topical Anesthetic",
+        "indication": "Postherpetic neuralgia pain"
+    },
+    {
+        "brand_name": "Glucophage",
+        "generic_alternatives": ["Metformin"],
+        "price": 6.6,
+        "drug_class": "Biguanide",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Glipizide",
+        "generic_alternatives": ["Glipizide"],
+        "price": 7,
+        "drug_class": "Sulfonylurea",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Glyburide",
+        "generic_alternatives": ["Glyburide"],
+        "price": 6.8,
+        "drug_class": "Sulfonylurea",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Amaryl",
+        "generic_alternatives": ["Glimepiride"],
+        "price": 8,
+        "drug_class": "Sulfonylurea",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Januvia",
+        "generic_alternatives": ["Sitagliptin"],
+        "price": 60,
+        "drug_class": "DPP-4 Inhibitor",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Tradjenta",
+        "generic_alternatives": ["Linagliptin"],
+        "price": 62,
+        "drug_class": "DPP-4 Inhibitor",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Onglyza",
+        "generic_alternatives": ["Saxagliptin"],
+        "price": 61,
+        "drug_class": "DPP-4 Inhibitor",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Janumet",
+        "generic_alternatives": ["Sitagliptin/Metformin"],
+        "price": 6.6,
+        "drug_class": "Combination Antidiabetic",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Kombiglyze XR",
+        "generic_alternatives": ["Metformin/Saxagliptin"],
+        "price": 8,
+        "drug_class": "Combination Antidiabetic",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Actos",
+        "generic_alternatives": ["Pioglitazone"],
+        "price": 58,
+        "drug_class": "Thiazolidinedione",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Avandia",
+        "generic_alternatives": ["Rosiglitazone"],
+        "price": 59,
+        "drug_class": "Thiazolidinedione",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Invokana",
+        "generic_alternatives": ["Canagliflozin"],
+        "price": 65,
+        "drug_class": "SGLT2 Inhibitor",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Farxiga",
+        "generic_alternatives": ["Dapagliflozin"],
+        "price": 66,
+        "drug_class": "SGLT2 Inhibitor",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Jardiance",
+        "generic_alternatives": ["Empagliflozin"],
+        "price": 67,
+        "drug_class": "SGLT2 Inhibitor",
+        "indication": "Type 2 diabetes"
+    },
+    {
+        "brand_name": "Humalog",
+        "generic_alternatives": ["Insulin lispro"],
+        "price": 0,
+        "drug_class": "Rapid-Acting Insulin",
+        "indication": "Type 1 and Type 2 diabetes"
+    },
+    {
+        "brand_name": "Novolog",
+        "generic_alternatives": ["Insulin aspart"],
+        "price": 0,
+        "drug_class": "Rapid-Acting Insulin",
+        "indication": "Type 1 and Type 2 diabetes"
+    },
+    {
+        "brand_name": "Apidra",
+        "generic_alternatives": ["Insulin glulisine"],
+        "price": 0,
+        "drug_class": "Rapid-Acting Insulin",
+        "indication": "Type 1 and Type 2 diabetes"
+    },
+    {
+        "brand_name": "Humulin R",
+        "generic_alternatives": ["Regular insulin"],
+        "price": 0,
+        "drug_class": "Short-Acting Insulin",
+        "indication": "Type 1 and Type 2 diabetes"
+    },
+    {
+        "brand_name": "Novolin R",
+        "generic_alternatives": ["Regular insulin"],
+        "price": 0,
+        "drug_class": "Short-Acting Insulin",
+        "indication": "Type 1 and Type 2 diabetes"
+    },
+    {
+        "brand_name": "Lantus",
+        "generic_alternatives": ["Insulin glargine"],
+        "price": 340,
+        "drug_class": "Long-Acting Insulin",
+        "indication": "Type 1 and Type 2 diabetes"
+    },
+    {
+        "brand_name": "Levemir",
+        "generic_alternatives": ["Insulin detemir"],
+        "price": 330,
+        "drug_class": "Long-Acting Insulin",
+        "indication": "Type 1 and Type 2 diabetes"
+    },
+    {
+        "brand_name": "Tresiba",
+        "generic_alternatives": ["Insulin degludec"],
+        "price": 350,
+        "drug_class": "Ultra Long-Acting Insulin",
+        "indication": "Type 1 and Type 2 diabetes"
+    },
+    {
+        "brand_name": "Prinivil",
+        "generic_alternatives": ["Lisinopril"],
+        "price": 10,
+        "drug_class": "ACE Inhibitor",
+        "indication": "Hypertension, heart failure"
+    },
+    {
+        "brand_name": "Zestril",
+        "generic_alternatives": ["Lisinopril"],
+        "price": 10,
+        "drug_class": "ACE Inhibitor",
+        "indication": "Hypertension, heart failure"
+    },
+    {
+        "brand_name": "Vasotec",
+        "generic_alternatives": ["Enalapril"],
+        "price": 11,
+        "drug_class": "ACE Inhibitor",
+        "indication": "Hypertension, heart failure"
+    },
+    {
+        "brand_name": "Accupril",
+        "generic_alternatives": ["Quinapril"],
+        "price": 12,
+        "drug_class": "ACE Inhibitor",
+        "indication": "Hypertension, heart failure"
+    },
+    {
+        "brand_name": "Cozaar",
+        "generic_alternatives": ["Losartan"],
+        "price": 7.7,
+        "drug_class": "ARB",
+        "indication": "Hypertension, diabetic nephropathy"
+    },
+    {
+        "brand_name": "Diovan",
+        "generic_alternatives": ["Valsartan"],
+        "price": 36.3,
+        "drug_class": "ARB",
+        "indication": "Hypertension, heart failure"
+    },
+    {
+        "brand_name": "Benicar",
+        "generic_alternatives": ["Olmesartan"],
+        "price": 17,
+        "drug_class": "ARB",
+        "indication": "Hypertension"
+    },
+    {
+        "brand_name": "Avapro",
+        "generic_alternatives": ["Irbesartan"],
+        "price": 18,
+        "drug_class": "ARB",
+        "indication": "Hypertension, diabetic nephropathy"
+    },
+    {
+        "brand_name": "Norvasc",
+        "generic_alternatives": ["Amlodipine"],
+        "price": 5.5,
+        "drug_class": "Calcium Channel Blocker",
+        "indication": "Hypertension, angina"
+    },
+    {
+        "brand_name": "Cardizem",
+        "generic_alternatives": ["Diltiazem"],
+        "price": 10,
+        "drug_class": "Calcium Channel Blocker",
+        "indication": "Hypertension, angina, arrhythmias"
+    },
+    {
+        "brand_name": "Procardia",
+        "generic_alternatives": ["Nifedipine"],
+        "price": 9.5,
+        "drug_class": "Calcium Channel Blocker",
+        "indication": "Hypertension, angina"
+    },
+    {
+        "brand_name": "Lopressor",
+        "generic_alternatives": ["Metoprolol"],
+        "price": 11,
+        "drug_class": "Beta-Blocker",
+        "indication": "Hypertension, angina, heart failure, arrhythmias"
+    },
+    {
+        "brand_name": "Toprol XL",
+        "generic_alternatives": ["Metoprolol succinate"],
+        "price": 11,
+        "drug_class": "Beta-Blocker",
+        "indication": "Hypertension, angina, heart failure"
+    },
+    {
+        "brand_name": "Tenormin",
+        "generic_alternatives": ["Atenolol"],
+        "price": 10,
+        "drug_class": "Beta-Blocker",
+        "indication": "Hypertension, angina"
+    },
+    {
+        "brand_name": "Bystolic",
+        "generic_alternatives": ["Nebivolol"],
+        "price": 44,
+        "drug_class": "Beta-Blocker",
+        "indication": "Hypertension"
+    },
+    {
+        "brand_name": "Inderal",
+        "generic_alternatives": ["Propranolol"],
+        "price": 9,
+        "drug_class": "Beta-Blocker",
+        "indication": "Hypertension, angina, arrhythmias, migraine prophylaxis"
+    },
+    {
+        "brand_name": "Hydrochlorothiazide",
+        "generic_alternatives": ["Hydrochlorothiazide"],
+        "price": 6,
+        "drug_class": "Thiazide Diuretic",
+        "indication": "Hypertension, edema"
+    },
+    {
+        "brand_name": "Microzide",
+        "generic_alternatives": ["Hydrochlorothiazide"],
+        "price": 6.5,
+        "drug_class": "Thiazide Diuretic",
+        "indication": "Hypertension, edema"
+    },
+    {
+        "brand_name": "Lasix",
+        "generic_alternatives": ["Furosemide"],
+        "price": 8,
+        "drug_class": "Loop Diuretic",
+        "indication": "Edema, heart failure, hypertension"
+    },
+    {
+        "brand_name": "Bumex",
+        "generic_alternatives": ["Bumetanide"],
+        "price": 9,
+        "drug_class": "Loop Diuretic",
+        "indication": "Edema, heart failure, hypertension"
+    },
+    {
+        "brand_name": "Aldactone",
+        "generic_alternatives": ["Spironolactone"],
+        "price": 12,
+        "drug_class": "Potassium-Sparing Diuretic",
+        "indication": "Heart failure, hypertension, edema, hyperaldosteronism"
+    },
+    {
+        "brand_name": "Zocor",
+        "generic_alternatives": ["Simvastatin"],
+        "price": 11,
+        "drug_class": "Statin",
+        "indication": "High cholesterol, cardiovascular disease prevention"
+    },
+    {
+        "brand_name": "Lipitor",
+        "generic_alternatives": ["Atorvastatin"],
+        "price": 12,
+        "drug_class": "Statin",
+        "indication": "High cholesterol, cardiovascular disease prevention"
+    },
+    {
+        "brand_name": "Crestor",
+        "generic_alternatives": ["Rosuvastatin"],
+        "price": 13.2,
+        "drug_class": "Statin",
+        "indication": "High cholesterol, cardiovascular disease prevention"
+    },
+    {
+        "brand_name": "Pravachol",
+        "generic_alternatives": ["Pravastatin"],
+        "price": 10.5,
+        "drug_class": "Statin",
+        "indication": "High cholesterol, cardiovascular disease prevention"
+    },
+    {
+        "brand_name": "Mevacor",
+        "generic_alternatives": ["Lovastatin"],
+        "price": 9.5,
+        "drug_class": "Statin",
+        "indication": "High cholesterol, cardiovascular disease prevention"
+    },
+    {
+        "brand_name": "Zetia",
+        "generic_alternatives": ["Ezetimibe"],
+        "price": 140,
+        "drug_class": "Cholesterol Absorption Inhibitor",
+        "indication": "High cholesterol"
+    },
+    {
+        "brand_name": "Vytorin",
+        "generic_alternatives": ["Ezetimibe/Simvastatin"],
+        "price": 69.71,
+        "drug_class": "Combination Cholesterol Lowering",
+        "indication": "High cholesterol"
+    },
+    {
+        "brand_name": "Tricor",
+        "generic_alternatives": ["Fenofibrate"],
+        "price": 25,
+        "drug_class": "Fibrate",
+        "indication": "High triglycerides, high cholesterol"
+    },
+    {
+        "brand_name": "Lopid",
+        "generic_alternatives": ["Gemfibrozil"],
+        "price": 24,
+        "drug_class": "Fibrate",
+        "indication": "High triglycerides, high cholesterol"
+    },
+    {
+        "brand_name": "Plavix",
+        "generic_alternatives": ["Clopidogrel"],
+        "price": 145,
+        "drug_class": "Antiplatelet",
+        "indication": "Prevention of heart attack, stroke"
+    },
+    {
+        "brand_name": "Aspirin",
+        "generic_alternatives": ["Aspirin"],
+        "price": 3,
+        "drug_class": "Antiplatelet",
+        "indication": "Prevention of heart attack, stroke"
+    },
+    {
+        "brand_name": "Coumadin",
+        "generic_alternatives": ["Warfarin"],
+        "price": 140,
+        "drug_class": "Anticoagulant",
+        "indication": "Prevention of blood clots, stroke, DVT, PE"
+    },
+    {
+        "brand_name": "Xarelto",
+        "generic_alternatives": ["Rivaroxaban"],
+        "price": 107.14,
+        "drug_class": "Anticoagulant",
+        "indication": "Prevention of blood clots, stroke, DVT, PE, atrial fibrillation"
+    },
+    {
+        "brand_name": "Eliquis",
+        "generic_alternatives": ["Apixaban"],
+        "price": 110,
+        "drug_class": "Anticoagulant",
+        "indication": "Prevention of blood clots, stroke, DVT, PE, atrial fibrillation"
+    },
+    {
+        "brand_name": "Pradaxa",
+        "generic_alternatives": ["Dabigatran"],
+        "price": 137,
+        "drug_class": "Anticoagulant",
+        "indication": "Prevention of blood clots, stroke, DVT, PE, atrial fibrillation"
+    },
+    {
+        "brand_name": "Cipro",
+        "generic_alternatives": ["Ciprofloxacin"],
+        "price": 15,
+        "drug_class": "Fluoroquinolone Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Levaquin",
+        "generic_alternatives": ["Levofloxacin"],
+        "price": 16,
+        "drug_class": "Fluoroquinolone Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Avelox",
+        "generic_alternatives": ["Moxifloxacin"],
+        "price": 17,
+        "drug_class": "Fluoroquinolone Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Amoxil",
+        "generic_alternatives": ["Amoxicillin"],
+        "price": 10.4,
+        "drug_class": "Penicillin Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Augmentin",
+        "generic_alternatives": ["Amoxicillin/Clavulanate"],
+        "price": 12,
+        "drug_class": "Penicillin Antibiotic Combination",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Penicillin VK",
+        "generic_alternatives": ["Penicillin V"],
+        "price": 9,
+        "drug_class": "Penicillin Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Zithromax",
+        "generic_alternatives": ["Azithromycin"],
+        "price": 18,
+        "drug_class": "Macrolide Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Biaxin",
+        "generic_alternatives": ["Clarithromycin"],
+        "price": 19,
+        "drug_class": "Macrolide Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Erythromycin",
+        "generic_alternatives": ["Erythromycin"],
+        "price": 17,
+        "drug_class": "Macrolide Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Keflex",
+        "generic_alternatives": ["Cephalexin"],
+        "price": 16,
+        "drug_class": "Cephalosporin Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Ceftin",
+        "generic_alternatives": ["Cefuroxime"],
+        "price": 17.5,
+        "drug_class": "Cephalosporin Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Omnicef",
+        "generic_alternatives": ["Cefdinir"],
+        "price": 18.5,
+        "drug_class": "Cephalosporin Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Bactrim DS",
+        "generic_alternatives": ["Sulfamethoxazole/Trimethoprim"],
+        "price": 14,
+        "drug_class": "Sulfonamide Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Septra DS",
+        "generic_alternatives": ["Sulfamethoxazole/Trimethoprim"],
+        "price": 14.5,
+        "drug_class": "Sulfonamide Antibiotic",
+        "indication": "Bacterial infections"
+    },
+    {
+        "brand_name": "Flagyl",
+        "generic_alternatives": ["Metronidazole"],
+        "price": 17,
+        "drug_class": "Nitroimidazole Antibiotic",
+        "indication": "Bacterial and parasitic infections"
+    },
+    {
+        "brand_name": "Diflucan",
+        "generic_alternatives": ["Fluconazole"],
+        "price": 19,
+        "drug_class": "Antifungal",
+        "indication": "Fungal infections"
+    },
+    {
+        "brand_name": "Lamisil AT",
+        "generic_alternatives": ["Terbinafine"],
+        "price": 20,
+        "drug_class": "Antifungal",
+        "indication": "Fungal infections (topical)"
+    },
+    {
+        "brand_name": "Lotrimin AF",
+        "generic_alternatives": ["Clotrimazole"],
+        "price": 10,
+        "drug_class": "Antifungal",
+        "indication": "Fungal infections (topical)"
+    },
+    {
+        "brand_name": "Tinactin",
+        "generic_alternatives": ["Tolnaftate"],
+        "price": 11.5,
+        "drug_class": "Antifungal",
+        "indication": "Fungal infections (topical)"
+    },
+    {
+        "brand_name": "Monistat 7",
+        "generic_alternatives": ["Miconazole"],
+        "price": 14,
+        "drug_class": "Antifungal",
+        "indication": "Vaginal yeast infections (topical)"
+    },
+    {
+        "brand_name": "Lotrisone",
+        "generic_alternatives": ["Betamethasone/Clotrimazole"],
+        "price": 25,
+        "drug_class": "Topical Corticosteroid/Antifungal Combination",
+        "indication": "Inflammatory fungal infections"
+    },
+    {
+        "brand_name": "Cortizone-10",
+        "generic_alternatives": ["Hydrocortisone"],
+        "price": 8.5,
+        "drug_class": "Topical Corticosteroid",
+        "indication": "Skin inflammation, itching"
+    },
+    {
+        "brand_name": "Preparation H",
+        "generic_alternatives": ["Phenylephrine/Mineral oil/Petrolatum/Shark liver oil"],
+        "price": 13,
+        "drug_class": "Hemorrhoidal Agent",
+        "indication": "Hemorrhoid symptoms"
+    },
+    {
+        "brand_name": "Neosporin",
+        "generic_alternatives": ["Neomycin/Polymyxin B/Bacitracin"],
+        "price": 9.5,
+        "drug_class": "Topical Antibiotic",
+        "indication": "Minor skin infections"
+    },
+    {
+        "brand_name": "Bactroban",
+        "generic_alternatives": ["Mupirocin"],
+        "price": 15.5,
+        "drug_class": "Topical Antibiotic",
+        "indication": "Skin infections, impetigo"
+    },
+    {
+        "brand_name": "Polysporin",
+        "generic_alternatives": ["Polymyxin B/Bacitracin"],
+        "price": 9,
+        "drug_class": "Topical Antibiotic",
+        "indication": "Minor skin infections"
+    },
+    {
+        "brand_name": "Tretinoin",
+        "generic_alternatives": ["Tretinoin"],
+        "price": 25,
+        "drug_class": "Topical Retinoid",
+        "indication": "Acne, wrinkles"
+    },
+    {
+        "brand_name": "Retin-A",
+        "generic_alternatives": ["Tretinoin"],
+        "price": 26,
+        "drug_class": "Topical Retinoid",
+        "indication": "Acne, wrinkles"
+    },
+    {
+        "brand_name": "Differin",
+        "generic_alternatives": ["Adapalene"],
+        "price": 24,
+        "drug_class": "Topical Retinoid-like",
+        "indication": "Acne"
+    },
+    {
+        "brand_name": "Accutane",
+        "generic_alternatives": ["Isotretinoin"],
+        "price": 70,
+        "drug_class": "Systemic Retinoid",
+        "indication": "Severe acne"
+    },
+    {
+        "brand_name": "Rogaine",
+        "generic_alternatives": ["Minoxidil"],
+        "price": 30,
+        "drug_class": "Topical Hair Growth Stimulant",
+        "indication": "Hair loss"
+    },
+    {
+        "brand_name": "Finasteride",
+        "generic_alternatives": ["Finasteride"],
+        "price": 105,
+        "drug_class": "5-Alpha Reductase Inhibitor",
+        "indication": "Benign prostatic hyperplasia (BPH), male pattern baldness"
+    },
+    {
+        "brand_name": "Flomax",
+        "generic_alternatives": ["Tamsulosin"],
+        "price": 100,
+        "drug_class": "Alpha-Blocker",
+        "indication": "Benign prostatic hyperplasia (BPH)"
+    },
+    {
+        "brand_name": "Cialis",
+        "generic_alternatives": ["Tadalafil"],
+        "price": 80.47,
+        "drug_class": "PDE5 Inhibitor",
+        "indication": "Erectile dysfunction, BPH"
+    },
+    {
+        "brand_name": "Viagra",
+        "generic_alternatives": ["Sildenafil"],
+        "price": 10,
+        "drug_class": "PDE5 Inhibitor",
+        "indication": "Erectile dysfunction"
+    },
+    {
+        "brand_name": "Levitra",
+        "generic_alternatives": ["Vardenafil"],
+        "price": 75,
+        "drug_class": "PDE5 Inhibitor",
+        "indication": "Erectile dysfunction"
+    },
+    {
+        "brand_name": "Premarin",
+        "generic_alternatives": ["Conjugated estrogens"],
+        "price": 1141.97,
+        "drug_class": "Estrogen Hormone Replacement",
+        "indication": "Menopausal symptoms, osteoporosis prevention"
+    },
+    {
+        "brand_name": "Estrace",
+        "generic_alternatives": ["Estradiol"],
+        "price": 1150,
+        "drug_class": "Estrogen Hormone Replacement",
+        "indication": "Menopausal symptoms, osteoporosis prevention"
+    },
+    {
+        "brand_name": "Provera",
+        "generic_alternatives": ["Medroxyprogesterone"],
+        "price": 1100,
+        "drug_class": "Progestin Hormone",
+        "indication": "Abnormal uterine bleeding, contraception"
+    },
+    {
+        "brand_name": "Ortho Tri-Cyclen Lo",
+        "generic_alternatives": ["Norgestimate/Ethinyl estradiol"],
+        "price": 30,
+        "drug_class": "Oral Contraceptive",
+        "indication": "Contraception"
+    },
+    {
+        "brand_name": "Yasmin",
+        "generic_alternatives": ["Drospirenone/Ethinyl estradiol"],
+        "price": 32,
+        "drug_class": "Oral Contraceptive",
+        "indication": "Contraception"
+    },
+    {
+        "brand_name": "Loestrin 24 Fe",
+        "generic_alternatives": ["Norethindrone/Ethinyl estradiol/Ferrous fumarate"],
+        "price": 15,
+        "drug_class": "Oral Contraceptive",
+        "indication": "Contraception"
+    },
+    {
+        "brand_name": "Minastrin 24 Fe",
+        "generic_alternatives": ["Norethindrone/Ethinyl estradiol/Ferrous fumarate"],
+        "price": 14.21,
+        "drug_class": "Oral Contraceptive",
+        "indication": "Contraception"
+    },
+    {
+        "brand_name": "Synthroid",
+        "generic_alternatives": ["Levothyroxine"],
+        "price": 185,
+        "drug_class": "Thyroid Hormone",
+        "indication": "Hypothyroidism"
+    },
+    {
+        "brand_name": "Levoxyl",
+        "generic_alternatives": ["Levothyroxine"],
+        "price": 186,
+        "drug_class": "Thyroid Hormone",
+        "indication": "Hypothyroidism"
+    },
+    {
+        "brand_name": "WP Thyroid",
+        "generic_alternatives": ["Levothyroxine"],
+        "price": 184,
+        "drug_class": "Thyroid Hormone",
+        "indication": "Hypothyroidism"
+    },
+    {
+        "brand_name": "NP Thyroid",
+        "generic_alternatives": ["Levothyroxine"],
+        "price": 184,
+        "drug_class": "Thyroid Hormone",
+        "indication": "Hypothyroidism"
+    },
+     {
+        "brand_name": "Armour Thyroid",
+        "generic_alternatives": ["Thyroid, dessicated"],
+        "price": 190,
+        "drug_class": "Thyroid Hormone",
+        "indication": "Hypothyroidism"
+    },
+    {
+        "brand_name": "Tamiflu",
+        "generic_alternatives": ["Oseltamivir"],
+        "price": 350,
+        "drug_class": "Antiviral",
+        "indication": "Influenza (flu)"
+    },
+    {
+        "brand_name": "Relenza",
+        "generic_alternatives": ["Zanamivir"],
+        "price": 360,
+        "drug_class": "Antiviral",
+        "indication": "Influenza (flu)"
+    },
+    {
+        "brand_name": "Valtrex",
+        "generic_alternatives": ["Valacyclovir"],
+        "price": 40,
+        "drug_class": "Antiviral",
+        "indication": "Herpes infections, shingles"
+    },
+    {
+        "brand_name": "Zovirax",
+        "generic_alternatives": ["Acyclovir"],
+        "price": 35,
+        "drug_class": "Antiviral",
+        "indication": "Herpes infections, chickenpox"
+    },
+    {
+        "brand_name": "Famvir",
+        "generic_alternatives": ["Famciclovir"],
+        "price": 38,
+        "drug_class": "Antiviral",
+        "indication": "Herpes infections, shingles"
+    },
+    {
+        "brand_name": "Combivent Respimat",
+        "generic_alternatives": ["Ipratropium/Albuterol"],
+        "price": 28,
+        "drug_class": "COPD Combination Inhaler",
+        "indication": "COPD"
+    },
+    {
+        "brand_name": "Advair Diskus",
+        "generic_alternatives": ["Fluticasone/Salmeterol"],
+        "price": 20,
+        "drug_class": "Asthma/COPD Combination Inhaler",
+        "indication": "Asthma, COPD"
+    },
+    {
+        "brand_name": "Symbicort",
+        "generic_alternatives": ["Budesonide/Formoterol"],
+        "price": 15,
+        "drug_class": "Asthma/COPD Combination Inhaler",
+        "indication": "Asthma, COPD"
+    },
+    {
+        "brand_name": "Dulera",
+        "generic_alternatives": ["Mometasone/Formoterol"],
+        "price": 16,
+        "drug_class": "Asthma/COPD Combination Inhaler",
+        "indication": "Asthma, COPD"
+    },
+    {
+        "brand_name": "Breo Ellipta",
+        "generic_alternatives": ["Fluticasone/Vilanterol"],
+        "price": 22,
+        "drug_class": "COPD/Asthma Combination Inhaler",
+        "indication": "COPD, Asthma"
+    },
+    {
+        "brand_name": "Spiriva Handihaler",
+        "generic_alternatives": ["Tiotropium"],
+        "price": 50,
+        "drug_class": "COPD Anticholinergic Inhaler",
+        "indication": "COPD"
+    },
+    {
+        "brand_name": "Incruse Ellipta",
+        "generic_alternatives": ["Umeclidinium"],
+        "price": 52,
+        "drug_class": "COPD Anticholinergic Inhaler",
+        "indication": "COPD"
+    },
+    {
+        "brand_name": "Ventolin HFA",
+        "generic_alternatives": ["Albuterol"],
+        "price": 25,
+        "drug_class": "Short-Acting Beta-Agonist (SABA) Inhaler",
+        "indication": "Asthma, COPD (acute relief)"
+    },
+    {
+        "brand_name": "ProAir HFA",
+        "generic_alternatives": ["Albuterol"],
+        "price": 26,
+        "drug_class": "Short-Acting Beta-Agonist (SABA) Inhaler",
+        "indication": "Asthma, COPD (acute relief)"
+    },
+    {
+        "brand_name": "Xopenex HFA",
+        "generic_alternatives": ["Levalbuterol"],
+        "price": 27,
+        "drug_class": "Short-Acting Beta-Agonist (SABA) Inhaler",
+        "indication": "Asthma, COPD (acute relief)"
+    },
+    {
+        "brand_name": "Pulmicort Flexhaler",
+        "generic_alternatives": ["Budesonide"],
+        "price": 22,
+        "drug_class": "Inhaled Corticosteroid",
+        "indication": "Asthma (maintenance)"
+    },
+    {
+        "brand_name": "Flovent HFA",
+        "generic_alternatives": ["Fluticasone"],
+        "price": 20,
+        "drug_class": "Inhaled Corticosteroid",
+        "indication": "Asthma (maintenance)"
+    },
+    {
+        "brand_name": "Asmanex Twisthaler",
+        "generic_alternatives": ["Mometasone"],
+        "price": 21,
+        "drug_class": "Inhaled Corticosteroid",
+        "indication": "Asthma (maintenance)"
+    },
+     {
+        "brand_name": "Singulair",
+        "generic_alternatives": ["Montelukast"],
+        "price": 15,
+        "drug_class": "Leukotriene Receptor Antagonist",
+        "indication": "Asthma, allergic rhinitis"
+    },
+    {
+        "brand_name": "Tylenol Cold + Flu",
+        "generic_alternatives": ["Acetaminophen/Dextromethorphan/Phenylephrine"],
+        "price": 13,
+        "drug_class": "Combination Cold/Flu Remedy",
+        "indication": "Cold and flu symptoms"
+    },
+    {
+        "brand_name": "DayQuil Cold & Flu",
+        "generic_alternatives": ["Acetaminophen/Dextromethorphan/Phenylephrine"],
+        "price": 12,
+        "drug_class": "Combination Cold/Flu Remedy",
+        "indication": "Cold and flu symptoms (daytime)"
+    },
+    {
+        "brand_name": "NyQuil Cold & Flu",
+        "generic_alternatives": ["Acetaminophen/Dextromethorphan/Doxylamine"],
+        "price": 13,
+        "drug_class": "Combination Cold/Flu Remedy",
+        "indication": "Cold and flu symptoms (nighttime)"
+    },
+    {
+        "brand_name": "Theraflu",
+        "generic_alternatives": ["Acetaminophen/Phenylephrine/Dextromethorphan"],
+        "price": 14,
+        "drug_class": "Combination Cold/Flu Remedy",
+        "indication": "Cold and flu symptoms"
+    },
+    {
+        "brand_name": "Vicks DayQuil/NyQuil Combo",
+        "generic_alternatives": ["Multi-ingredient Cold/Flu Combination"],
+        "price": 25,
+        "drug_class": "Combination Cold/Flu Remedy",
+        "indication": "Cold and flu symptoms (day and night)"
+    },
+     {
+        "brand_name": "Neosporin Ointment",
+        "generic_alternatives": ["Bacitracin/Neomycin/Polymyxin B"],
+        "price": 10,
+        "drug_class": "Topical Antibiotic",
+        "indication": "Minor skin infections"
+    },
+    {
+        "brand_name": "Polysporin Ointment",
+        "generic_alternatives": ["Bacitracin/Polymyxin B"],
+        "price": 9.5,
+        "drug_class": "Topical Antibiotic",
+        "indication": "Minor skin infections"
+    },
+    {
+        "brand_name": "Cortaid Cream",
+        "generic_alternatives": ["Hydrocortisone"],
+        "price": 9,
+        "drug_class": "Topical Corticosteroid",
+        "indication": "Skin inflammation, itching"
+    },
+    {
+        "brand_name": "Caladryl Lotion",
+        "generic_alternatives": ["Calamine/Pramoxine"],
+        "price": 8,
+        "drug_class": "Topical Anti-itch",
+        "indication": "Itching, poison ivy, insect bites"
+    },
+    {
+        "brand_name": "Preparation H Ointment",
+        "generic_alternatives": ["Mineral oil/Petrolatum/Phenylephrine"],
+        "price": 14,
+        "drug_class": "Hemorrhoidal Agent",
+        "indication": "Hemorrhoid symptoms"
+    },
+    {
+        "brand_name": "Tums Chewy Bites",
+        "generic_alternatives": ["Calcium Carbonate"],
+        "price": 7.5,
+        "drug_class": "Antacid",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Rolaids Ultra Strength Tablets",
+        "generic_alternatives": ["Calcium carbonate/Magnesium hydroxide"],
+        "price": 8.5,
+        "drug_class": "Antacid",
+        "indication": "Heartburn, acid indigestion"
+    },
+    {
+        "brand_name": "Pepto-Bismol Liquid",
+        "generic_alternatives": ["Bismuth subsalicylate"],
+        "price": 10.5,
+        "drug_class": "Antacid/Antidiarrheal",
+        "indication": "Heartburn, upset stomach, diarrhea"
+    }
+]

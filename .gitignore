@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+.vercel
+.vercel/
+# Logs
+logs/
+*.log
+logs/*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+*.bak
+*.swp
+*.swo
